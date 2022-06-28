@@ -10,7 +10,8 @@ IoT Event Notifier (Leakage in Tyre of a vehicle) has been notified to the owner
 6. git
 
 # Packages
-1. pip install web3
+1. npm install -g truffle
+2. pip install web3
 
 # Process
 1. Install all Softwares
